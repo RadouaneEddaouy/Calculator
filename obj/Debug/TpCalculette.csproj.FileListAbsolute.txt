@@ -1,0 +1,40 @@
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe.config
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\bin\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.Properties.Resources.resources
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.exe
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.pdb
+C:\Users\Adil\source\repos\TpCalculette\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\calculate\bin\Debug\TpCalculette.exe.config
+E:\C#\calculate\bin\Debug\TpCalculette.exe
+E:\C#\calculate\bin\Debug\TpCalculette.pdb
+E:\C#\calculate\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+E:\C#\calculate\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\calculate\obj\Debug\TpCalculette.Properties.Resources.resources
+E:\C#\calculate\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+E:\C#\calculate\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+E:\C#\calculate\obj\Debug\TpCalculette.exe
+E:\C#\calculate\obj\Debug\TpCalculette.pdb
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.Properties.Resources.resources
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.exe
+E:\C#\Calculator_Second\obj\Debug\TpCalculette.pdb
+E:\C#\Calculator_Second\bin\Debug\TpCalculette.exe.config
+E:\C#\Calculator_Second\bin\Debug\TpCalculette.exe
+E:\C#\Calculator_Second\bin\Debug\TpCalculette.pdb
+E:\C#\AFTER TEST\afterTestCalculator\bin\Debug\TpCalculette.exe.config
+E:\C#\AFTER TEST\afterTestCalculator\bin\Debug\TpCalculette.exe
+E:\C#\AFTER TEST\afterTestCalculator\bin\Debug\TpCalculette.pdb
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.csproj.AssemblyReference.cache
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.frmCalculette.resources
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.Properties.Resources.resources
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.csproj.GenerateResource.cache
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.csproj.CoreCompileInputs.cache
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.exe
+E:\C#\AFTER TEST\afterTestCalculator\obj\Debug\TpCalculette.pdb
